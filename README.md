@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++,python java sql**
 
-- 👯 I’m looking to collaborate on **Game development**
+- 👯 I’m looking to collaborate on **whatsapp reborts**
 
 - 🤝 I’m looking for help with **Whatsapp bot reboot**
 
