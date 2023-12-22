@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mr. Wasi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xwasix&label=Profile%20views&color=0e75b6&style=flat" alt="xwasix" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xwasix&label=Profile%20views&color=0e75b6&style=flat" alt="itxxwasi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chwaseem" target="blank"><img src="https://img.shields.io/twitter/follow/chwaseem?logo=twitter&style=for-the-badge" alt="chwaseem" /></a> </p>
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++,python java sql**
 
 - 👯 I’m looking to collaborate on **Game development**
 
