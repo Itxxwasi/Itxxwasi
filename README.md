@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm WASI TECH</h1>
-<h3 align="center">A passionate frontend developer from PAKISTAN</h3>
+<h3 align="center">A passionate backend developer from PAKISTAN</h3>
+<p align="center">
+  <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J">
+    <img alt=Support height="350" src="https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"> 
+    </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxxwasi&label=Profile%20views&color=0e75b6&style=flat" alt="itxxwasi" /> </p>
 
