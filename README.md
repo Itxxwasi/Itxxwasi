@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/itxmewasi1" target="blank"><img src="https://img.shields.io/twitter/follow/itxmewasi1?logo=twitter&style=for-the-badge" alt="itxmewasi1" /></a> </p>
 
-- 🔭 I’m currently working on **WHATSAPP REBORTS**
+- 🔭 I’m currently working on **WHATSAPP REBORTS.FACBOOK REBOOT INSTA TELEGRAM**
 
-- 🌱 I’m currently learning **C++,JAVA,PYTHON,SQL**
+- 🌱 I’m currently learning **PAYTHON C++,JAVA,PYTHON,SQL**
 
 - 👯 I’m looking to collaborate on **WASI-TECH**
 
-- 🤝 I’m looking for help with **REBORTS**
+- 🤝 I’m looking for help with **WITH PAYTHON PROJECT**
 
-- 💬 Ask me about **REBORTS**
+- 💬 Ask me about **BACKEND DEVELOPMENT**
 
 - 📫 How to reach me **itxmewasi@gmail.com**
 
