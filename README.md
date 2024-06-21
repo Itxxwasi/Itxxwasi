@@ -11,7 +11,7 @@
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://t.me/WASImd"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/itx_mee_wasi"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/chwaseem"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/@wasitechx"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
+<a href="https://t.me/wasitech"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/itx_mee_wasi"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/chwaseem11bc?mibextid=ZbWKwL"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/@wasitechx"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Itxxwasi&label=Visitors%20count&color=10d9c3&style=plastic" alt="WASI-TECH" /> </p>
