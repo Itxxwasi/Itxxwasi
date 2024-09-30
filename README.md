@@ -63,11 +63,11 @@
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/Itxxwasi/WASI-MD-V2">
+<a href="https://github.com/Itxxwasi/WASI-MD-V">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Itxxwasi&repo=WASI-MD-V2&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Itxxwasi/UNIQUE-MD">
+<a href="https://github.com/Itxxwasi/WASI-MD-V3">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Itxxwasi&repo=UNIQUE-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
