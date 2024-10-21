@@ -22,33 +22,32 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ```
-class Introduction:
-    def __init__(self, name, profession, skills, interests):
-        self.name = name
-        self.profession = profession
-        self.skills = skills
-        self.interests = interests
+class Introduction {
+    constructor(name, profession, skills, interests) {
+        this.name = name;
+        this.profession = profession;
+        this.skills = skills;
+        this.interests = interests;
+    }
 
-    def display_intro(self):
-        print(f"Hello, my name is {self.name}.")
-        print(f"I am a {self.profession}.")
-        print("Here are some of my skills:")
-        for skill in self.skills:
-            print(f"- {skill}")
-        print("I am interested in:")
-        for interest in self.interests:
-            print(f"- {interest}")
+    displayIntro() {
+        console.log(`Hello, my name is ${this.name}.`);
+        console.log(`I am a ${this.profession}.`);
+        console.log("Here are some of my skills:");
+        this.skills.forEach(skill => console.log(`- ${skill}`));
+        console.log("I am interested in:");
+        this.interests.forEach(interest => console.log(`- ${interest}`));
+    }
+}
 
-if __name__ == "__main__":
-    # wow this my intro
-    my_intro = Introduction(
-        name="MR WASI",
-        profession="Software Developer",
-        skills=["Python", "JavaScript", "Web Development", "Data Analysis"],
-        interests=["Open Source Contribution", "Machine Learning", "Gaming"]
-    )
-    
-    my_intro.display_intro()
+const myIntro = new Introduction(
+    "MR WASI",
+    "Software Developer",
+    ["JavaScript", "Python", "Web Development", "Data Analysis"],
+    ["Open Source Contribution", "Machine Learning", "Gaming"]
+);
+
+myIntro.displayIntro();
 ```
   
 
