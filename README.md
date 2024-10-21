@@ -20,6 +20,36 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+```
+class Introduction:
+    def __init__(self, name, profession, skills, interests):
+        self.name = name
+        self.profession = profession
+        self.skills = skills
+        self.interests = interests
+
+    def display_intro(self):
+        print(f"Hello, my name is {self.name}.")
+        print(f"I am a {self.profession}.")
+        print("Here are some of my skills:")
+        for skill in self.skills:
+            print(f"- {skill}")
+        print("I am interested in:")
+        for interest in self.interests:
+            print(f"- {interest}")
+
+if __name__ == "__main__":
+    # wow this my intro
+    my_intro = Introduction(
+        name="MR WASI",
+        profession="Software Developer",
+        skills=["Python", "JavaScript", "Web Development", "Data Analysis"],
+        interests=["Open Source Contribution", "Machine Learning", "Gaming"]
+    )
+    
+    my_intro.display_intro()
+```
   
 
 
@@ -61,15 +91,7 @@
 
 
 
-<h3>Some of my Projects:</h3>
 
-<a href="https://github.com/Itxxwasi/WASI-MD-V">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Itxxwasi&repo=WASI-MD-V2&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/Itxxwasi/WASI-MD-V3">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Itxxwasi&repo=UNIQUE-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
