@@ -1,106 +1,31 @@
+<!-- Profile Header Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=00FF7F&background=0D11170A&vCenter=true&width=680&lines=Hey+There+👋;I'm+MR+WASI;A+Passionate+Full-Stack+Developer;From+Islamabad,+Pakistan;Welcome+to+My+GitHub+🌍)](https://github.com/Itxxwasi)
 
-
-[![WASI-TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+WASI+Tech;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Pakistan-islamabad;Nice+to+Meet+You)](https://github.com/Itxxwasi)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-
-![My card name](https://cardivo.vercel.app/api?name=WASI%20TECH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/Itxxwasi.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=itx_mee_wasi&github=Itxxwasi&)
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="banner" width="100%"/>
 </p>
-<p> <b>Connect With me:</b></p>
-<p>
-<a href="https://t.me/wasitech"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/itx_mee_wasi"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/chwaseem11bc?mibextid=ZbWKwL"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/@wasitechx"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
-</p>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Itxxwasi&label=Visitors%20count&color=10d9c3&style=plastic" alt="WASI-TECH" /> </p>
-</br>
-</details>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---
 
-```
+### 🧠 About Me
+
+```js
 class Introduction {
-    constructor(name, profession, skills, interests) {
-        this.name = name;
-        this.profession = profession;
-        this.skills = skills;
-        this.interests = interests;
-    }
+  constructor() {
+    this.name = "MR WASI";
+    this.profession = "Full Stack Developer";
+    this.skills = ["JavaScript", "Python", "Node.js", "React", "MongoDB"];
+    this.interests = ["AI", "Open Source", "Bot Development", "Gaming"];
+  }
 
-    displayIntro() {
-        console.log(`Hello, my name is ${this.name}.`);
-        console.log(`I am a ${this.profession}.`);
-        console.log("Here are some of my skills:");
-        this.skills.forEach(skill => console.log(`- ${skill}`));
-        console.log("I am interested in:");
-        this.interests.forEach(interest => console.log(`- ${interest}`));
-    }
+  introduce() {
+    console.log(`👋 Hi, I'm ${this.name}!`);
+    console.log(`💻 ${this.profession}`);
+    console.log(`⚡ Skilled in: ${this.skills.join(", ")}`);
+    console.log(`🎯 Interests: ${this.interests.join(", ")}`);
+  }
 }
 
-const myIntro = new Introduction(
-    "MR WASI",
-    "Software Developer",
-    ["JavaScript", "Python", "Web Development", "Data Analysis"],
-    ["Open Source Contribution", "Machine Learning", "Gaming"]
-);
-
-myIntro.displayIntro();
-```
-  
-
-
-</p>
-<br><br>
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=Itxxwasi&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
-      <a href="https://github.com/Itxxwasi"><img src="https://github-readme-streak-stats.herokuapp.com?user=Itxxwasi&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="WASI" /></a>
-        </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Itxxwasi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" align="center">
-    </td>
-  </tr>
-</table>
-<div align=center>
-  <a href="https://github.com/Itxxwasi" title="WASI">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Itxxwasi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="WASI" />
-    </a>
-</div>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-
-  
-- 🔭 I’m currently working on WASI-MD-BOTZ
-- 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
-- 👯 I’m looking to collaborate on Developing Hacking Software Programs
-- 💬 Ask me about Whatsapp Bots or Web Design and Development Issues
-- 📫 How to reach me: [`Telegram`](https://t.me/wasitech)
--  Also visit my Bot Website [`Here`](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
-- ⚡ Fun fact: ...
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
-
-<br>
-
-[![WASI's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Itxxwasi)
-<br>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="WASI" />
-</p>
+new Introduction().introduce();
+🌐 Connect With Me
+<p align="center"> <a href="https://t.me/wasitech" title="Telegram"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="48" alt="Telegram"/></a> <a href="https://instagram.com/itx_mee_wasi" title="Instagram"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="48" alt="Instagram"/></a> <a href="https://www.facebook.com/chwaseem11bc?mibextid=ZbWKwL" title="Facebook"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="48" alt="Facebook"/></a> <a href="https://twitter.com/@wasitechx" title="Twitter"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="48" alt="Twitter"/></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Itxxwasi&label=Visitors&color=00e676&style=flat-square" alt="Profile Views" /> </p>
